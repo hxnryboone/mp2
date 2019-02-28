@@ -12,7 +12,7 @@
   <description>Date and time library to replace JDK date handling</description>
   <url>https://www.joda.org/joda-time/</url>
 
-  <!-- ==================================================================== -->
+  <!--  ==================================================================== -->
   <issueManagement>
     <system>GitHub</system>
     <url>https://github.com/JodaOrg/joda-time/issues</url>
